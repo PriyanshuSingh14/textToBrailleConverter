@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PriyanshuSingh14/textToBrailleConverter/static/css/main.6ba1f366.css",
+    "main.js": "/PriyanshuSingh14/textToBrailleConverter/static/js/main.4ff0a995.js",
+    "static/js/787.6f207b78.chunk.js": "/PriyanshuSingh14/textToBrailleConverter/static/js/787.6f207b78.chunk.js",
+    "index.html": "/PriyanshuSingh14/textToBrailleConverter/index.html",
+    "main.6ba1f366.css.map": "/PriyanshuSingh14/textToBrailleConverter/static/css/main.6ba1f366.css.map",
+    "main.4ff0a995.js.map": "/PriyanshuSingh14/textToBrailleConverter/static/js/main.4ff0a995.js.map",
+    "787.6f207b78.chunk.js.map": "/PriyanshuSingh14/textToBrailleConverter/static/js/787.6f207b78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba1f366.css",
+    "static/js/main.4ff0a995.js"
+  ]
+}
