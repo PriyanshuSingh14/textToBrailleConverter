@@ -1,0 +1,22 @@
+.convertAudio{
+    
+
+    width:260px;
+    height: 40px;
+    background-color: #E99B00;
+    position: relative;
+    bottom:40px;
+    left:300px;
+    
+    border: none;
+    color: white;
+    padding: 2px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius:30px;
+    box-shadow:1px 1px 1px 1px rgb(85, 85, 82) ;
+
+}

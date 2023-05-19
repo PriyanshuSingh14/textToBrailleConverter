@@ -1,0 +1,20 @@
+.droppdf{
+    
+    border: none;
+    background-color: #E99B00;
+    height:40px;
+    width:200px;
+    color: white;
+    position:relative;
+    top:100px;
+    left:110px;
+    padding: 10px 10px;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow:1px 1px 1px 1px rgb(85, 85, 82) ;
+}

@@ -1,0 +1,28 @@
+.outbox{
+    background:#FFDB93;
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 25px;
+    box-shadow: 0 0 20px 20px #E99B00;
+    
+}
+
+img{
+    position: absolute;
+    top:-55px;
+    left:435px;
+    border-radius: 10px;
+    
+}
+
+.title{
+    padding-left: 280px;
+    font-size: 30px;
+
+}
